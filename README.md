@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Sqvizix.github.io/rsschool-cv/cv
