@@ -11,8 +11,16 @@ I am 25 yers old. I am a strong-willed, interested person. I like to constantly 
 ## **Education** ##
 **University:** Belarusian National Technical University, Multi-purpose tracked and wheeled vehicles - Design engineer 
 
+## **Experience** ##
+**Stadler Minsk:** Mechanical design engineer 3+ years 
+
+## **Skills** ##
+  * SolidWorks
+  * Catia V5
+  * AutoCAD
+  * Mickrosoft Office
+
 ## **Language** ##
   **Belarusian** - native
   **Russian** - native
   **English** - A2+
-
